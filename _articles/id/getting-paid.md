@@ -101,6 +101,7 @@ Proyek-proyek yang berasal dari perusahaan besar, seperti [Go](https://github.co
 
 Akhirnya, melihat dari kondisi pribadi Anda, Anda bisa mencoba mengumpulkan uang secara mandiri untuk mendanai proyek open source Anda. Sebagai contoh:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon mendanai pekerjaannya pada [Redux](https://github.com/reactjs/redux) melalui [kampanye Patreon crowdfunding](https://redux.js.org/)
 * @andrewgodwin mendanai pekerjaan pada migrasi skema Django [melalui kampanye Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
@@ -128,7 +129,7 @@ Anda mungkin memberikan tambahan biaya untuk dukungan komersial, opsi hosting, a
 * **[Travis CI](https://github.com/travis-ci)** menawarkan versi berbayar untuk produknya
 * **[Ghost](https://github.com/TryGhost/Ghost)** bersifat nirlaba dengan layanan pembayaran
 
-Beberapa proyek yang populer, seperti [npm](https://github.com/npm/npm) dan [Docker](https://github.com/docker/docker), bahkan mengajukan pendanaan pada venture capital untuk mendukung pertumbuhan bisnisnya.
+Beberapa proyek yang populer, seperti [npm](https://github.com/npm/cli) dan [Docker](https://github.com/docker/docker), bahkan mengajukan pendanaan pada venture capital untuk mendukung pertumbuhan bisnisnya.
 
 ### Mengajukan hibah pendanaan
 
@@ -178,5 +179,3 @@ Apakah pemberi dana memiliki persyaratan? Misalnya Anda harus bersifat nirlaba a
 ## Eksperimen dan jangan menyerah
 
 Mendapatkan pendanaan tidaklah mudah, baik untuk proyek open source, nirlaba, atau startup perangkat lunak, dan pada banyak kasus, Anda harus kreatif. mengindentifikasi bagaimana Anda hendak didanai, melakukan riset, dan menempatkan diri Anda pada penyandang dana akan membantu Anda membangun kasus yang meyakinkan untuk pendanaan.
-
->

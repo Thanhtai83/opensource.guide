@@ -18,17 +18,17 @@ Eine einladende, offenherzige Gemeinschaft ist eine Investition in die Zukunft u
 
 ### Geben Sie Leuten das Gefühl, willkommen zu sein
 
-Die Community Ihres Projekts kann nach @MikeMcQuaid als "Kontributorentrichter" ([contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)) aufgefasst werden:
+Die Community Ihres Projekts kann nach @MikeMcQuaid als "Kontributor*innentrichter" ([contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)) aufgefasst werden:
 
 ![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-Während Sie Ihre Community aufbauen, überlegen Sie sich, wie jemand am Eingang des Trichters (potenzielle\*r Benutzer\*in) theoretisch den Weg nach unten finden könnte (aktiver\* Mitstreiter\*in). Ihr Ziel ist es, jede Phase des Mithelfens möglichst reibungslos zu gestalten. Denn wenn die Leute "leichte Beute" machen können, ermutigt sie dies zu weiteren Beiträgen.
+Während Sie Ihre Community aufbauen, überlegen Sie sich, wie jemand am Eingang des Trichters (potenzielle\*r Benutzer\*in) theoretisch den Weg nach unten finden könnte (aktive\*r Mitstreiter\*in). Ihr Ziel ist es, jede Phase des Mithelfens möglichst reibungslos zu gestalten. Denn wenn die Leute "leichte Beute" machen können, ermutigt sie dies zu weiteren Beiträgen.
 
 Beginnen Sie mit der Dokumentation:
 
 * **Helfen Sie beim Einstieg in ihr Projekt.** [Eine freundliche README](../starting-a-project/#eine-readme-schreiben) und anschauliche Codebeispiele erleichtern Allen, die auf Ihr Projekt stoßen, den Einstieg.
 * **Erklären Sie in klaren Worten, wie Leute beitragen sollen**, bspw. in [einer CONTRIBUTING-Datei](../starting-a-project/#ihre-beitragsrichtlinien-aufschreiben), und indem Sie die Issues stets aktuell halten.
-* **Good first issues**: Um neuen Mitwirkenden den Einstieg zu erleichtern, sollten Sie [für Anfänger\*innen* geeignete Issues explizit kenntlich machen (Englisch)](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden, ohne sich erst durch vermutlich zu schwere Issues durchkämpfen zu müssen.
+* **Good first issues**: Um neuen Mitwirkenden den Einstieg zu erleichtern, sollten Sie [für Anfänger\*innen geeignete Issues explizit kenntlich machen (Englisch)](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden, ohne sich erst durch vermutlich zu schwere Issues durchkämpfen zu müssen.
 
 [GitHubs 2017er Open-Source-Umfrage](http://opensourcesurvey.org/2017/) zeigte, dass unvollständige oder verwirrende Dokumentation das größte Problem für Open-Source-Anwender\*innen ist. Eine gute Dokumentation lädt zur Interaktion mit Ihrem Projekt ein. Wenn jemand ein Issue oder Pull Request erstellt, bietet sich für Sie die Möglichkeit, diese Person durch den Trichter zu bugsieren.
 
@@ -63,7 +63,7 @@ Andere zur Mitarbeit zu ermutigen, ist auch eine Investition in sich selbst: Wen
   _Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening._
 
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -105,7 +105,7 @@ Der zweite Grund nützt Ihnen selbst: Wenn Sie den Leuten _keinen_ öffentlichen
 
 Öffentliche Kommunikation kann ganz einfach sein: Bitten Sie Leute, ein Issue zu öffnen, anstatt Ihnen direkt eine E-Mail zu schreiben oder in Ihr Blog zu kommentieren. Sie können für Leute, die über Ihr Projekt sprechen möchten, auch eine Mailingliste einrichten oder einen Twitter-Account, einen Slack- oder IRC-Kanal. Oder all dies gleichzeitig ausprobieren!
 
-[Kubernetes' Kops](https://github.com/kubernetes/kops#getting-involved) legt alle zwei Wochen Bürozeiten fest, um den Mitgliedern der Gemeinschaft zu helfen:
+[Kubernetes' Kops](https://github.com/kubernetes/kops#getting-involved) legt alle zwei Wochen Bürozeiten fest, um den Mitglieder*innen der Gemeinschaft zu helfen:
 
 > Die Kops-Betreuer\*innen haben sich bereit erklärt, Zeit einzuplanen für die Arbeit mit Neuankömmlingen, die Unterstützung von Pull Requests, sowie für die Diskussion über neue Funktionen.
 >
@@ -153,7 +153,7 @@ Nicht zuletzt sollten Sie die Dokumentation nutzen, um Leute mit offenen Armen z
 
 Sie werden mit den meisten Leuten, die auf Ihr Projekt stoßen nie interagieren. Ihnen könnten Beiträge entgehen, weil jemand sich eingeschüchtert fühlte, oder nicht herausfand, was es denn zu tun gab. Schon ein paar freundliche Worte können verhindern, dass jemand einfach weiter zieht.
 
-Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kontributionsratgeber](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) mit:
+Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kontributionsratgeber](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md) mit:
 
 > Zum Einstieg möchten wir Dir erstmal unseren Dank aussprechen, dass Du Rubinius nutzt. Dieses Projekt wurde mit viel Liebe aufgebaut und wir schätzen alle Benutzer\*innen, die Fehler aufspüren, Geschwindigkeitsverbesserungen vornehmen und bei der Dokumentation helfen. Jeder Beitrag bedeutet uns etwas, also vielen Dank für Ihre Teilnahme! Wir bitten Sie jedoch, einige Richtlinien zu befolgen, damit wir Ihr Issue erfolgreich bearbeiten können.
 >
@@ -181,7 +181,7 @@ Schauen Sie, ob Sie Wege finden können, Verantwortlichkeiten so weit wie mögli
 
 ![Cookiecutter-Issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Führen Sie eine CONTRIBUTORS- oder AUTHORS-Datei in Ihrem Projekt**, die alle Leute aufzählt, die einen Beitrag geleistet haben, wie z.B. bei [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
+* **Führen Sie eine CONTRIBUTORS- oder AUTHORS-Datei in Ihrem Projekt**, die alle Leute aufzählt, die einen Beitrag geleistet haben, wie z.B. bei [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
 * Wenn Sie schon eine etwas größere Gemeinschaft versammelt haben, **senden Sie eine Rundmail oder schreiben ins Blog**, dass Sie Kontributor\*innen danken. Rusts [This Week in Rust](https://this-week-in-rust.org/) und Hoodies [Shoutout-Grüße](http://hood.ie/blog/shoutouts-week-24.html) sind zwei gute Beispiele dafür.
 
@@ -189,7 +189,7 @@ Schauen Sie, ob Sie Wege finden können, Verantwortlichkeiten so weit wie mögli
 
 * Wenn Ihr Projekt auf GitHub liegt, **verschieben Sie es von Ihrem Privat-Konto in das einer [Organisation](https://help.github.com/articles/creating-a-new-organization-account/)** und fügen Sie zur Sicherheit mindestens eine\*n weitere\*n Administrator\*in hinzu. Organisationen machen die Zusammenarbeit mit externen Mithelfenden einfacher.
 
-Realistischerweise haben [die meisten Projekte](https://peerj.com/preprints/1233.pdf) nur einen oder zwei Verantwortliche, welche die meiste Arbeit erledigen. Ja größer Ihr Projekt, und je größer seine Nutzer\*innengemeinschaft, desteo einfacher wird es sein, Hilfe zu finden.
+Realistischerweise haben [die meisten Projekte](https://peerj.com/preprints/1233/) nur einen oder zwei Verantwortliche, welche die meiste Arbeit erledigen. Ja größer Ihr Projekt, und je größer seine Nutzer\*innengemeinschaft, desteo einfacher wird es sein, Hilfe zu finden.
 
 Während Sie vielleicht nicht immer Leute finden, die einem Aufruf folgen, erhöht so ein Signals doch die Wahrscheinlichkeit, dass Andere mitmachen. Je früher Sie damit anfangen, desto eher können die Leute helfen.
 
@@ -227,7 +227,7 @@ Ihre Aufgabe als Maintainer\*in ist es, solche Situationen vor einer Eskalation 
   _As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally._
 
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
@@ -287,15 +287,15 @@ Wenn eine Diskussion offensichtlich nirgendwo hinführt, es keine klaren Maßnah
   _Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct._
 
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
 ### Wählen Sie Auseinandersetzungen mit Bedacht
 
-Der Kontext ist wichtig: Überlegen Sie, wer an der Diskussion beteiligt ist und wie die Diskutanten den Rest der Gemeinschaft repräsentieren.
+Der Kontext ist wichtig: Überlegen Sie, wer an der Diskussion beteiligt ist und wie die Diskutant\*innen den Rest der Gemeinschaft repräsentieren.
 
-Ist jeder in der Community verärgert oder gar mit diesem Thema beschäftigt? Oder ist er ein\*e einzelner Unruhestifter\*in? Berücksichtigen Sie nicht nur die Aktiven, sondern vergessen Sie Ihre stillen Community-Mitglieder nicht.
+Ist jede\*r in der Community verärgert oder gar mit diesem Thema beschäftigt? Ist er oder sie ein\*e einzelne\*r Unruhestifter\*in? Berücksichtigen Sie nicht nur die Aktiven, sondern vergessen Sie Ihre stillen Community-Mitglieder\*innen nicht.
 
 Wenn das Thema nicht die breiteren Bedürfnisse Ihrer Gemeinschaft widerspiegelt, müssen Sie vielleicht nur die Sorgen einiger Weniger anerkennen. Wenn es sich um ein wiederkehrendes Problem ohne klare Lösung handelt, weisen Sie sie auf frühere Diskussionen hin und schließen Sie das Issue.
 

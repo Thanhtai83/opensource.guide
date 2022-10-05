@@ -3,11 +3,6 @@ lang: en
 title: Getting Paid for Open Source Work
 description: Sustain your work in open source by getting financial support for your time or your project.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "Why some people seek financial support"
-  funding-your-own-time: "Funding your own time"
-  finding-funding-for-your-project: "Finding funding for your project"
-  building-a-case-for-financial-support: "Building a case for financial support"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -17,7 +12,7 @@ related:
 
 ## Why some people seek financial support
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+Much of the work of open source is voluntary. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
@@ -106,19 +101,20 @@ Projects that originated at a large company, such as [Go](https://github.com/gol
 
 Depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-Finally, sometimes open source projects put bounties on issues that you might consider helping with. 
+Finally, sometimes open source projects put bounties on issues that you might consider helping with.
 
-* @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their javascript library [through a bounty on gitcoin](https://gitcoin.co/).
+* @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their JavaScript library [through a bounty on gitcoin](https://gitcoin.co/).
 * @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://explorer.bounties.network/bounty/134).
 
 ## Finding funding for your project
 
 Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing in new features or ideas.
 
 As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
 
@@ -139,7 +135,7 @@ Depending on your project, you may be able to charge for commercial support, hos
 * **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
 * **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
 
-Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+Some popular projects, like [npm](https://github.com/npm/cli) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
 
 ### Apply for grant funding
 
@@ -189,5 +185,3 @@ Does the funder have any requirements around disbursal? For example, you may nee
 ## Experiment and don't give up
 
 Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
-
->
